@@ -1,5 +1,5 @@
-# parallax-effect-animation-multiple-background_study
-## Modern Image Gallery
+# modern-image-gallery_study
+## Modern Image Gallery With ES6 JavaScript
 
 **tutorial link**: https://www.youtube.com/watch?v=afoxd5b0bJo&t=1172s&ab_channel=TraversyMedia
 
