@@ -1,21 +1,22 @@
 # parallax-effect-animation-multiple-background_study
-## Parallax Effect Animation and Multiple Background CSS
+## Modern Image Gallery
 
-**tutorial link**: www.youtube.com/watch?v=lbAijXD2gHk&ab_channel=AdamKhoury
+**tutorial link**: https://www.youtube.com/watch?v=afoxd5b0bJo&t=1172s&ab_channel=TraversyMedia
 
 
 **technologies**
 ```
 html
 css
+javascript
 ```
 
 
 **what I learn**
 - grid css layout
-- put icons from font awesome
-- put a entry animation using animate.css
-- responsiveness website
+- css animation
+- es6 arrow functions
+- high-order functions
 
 :+1:
 
